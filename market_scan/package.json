@@ -1,0 +1,11 @@
+{
+  "name": "haos-market-scan",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Private Home Assistant OS add-on for Claude stock scans and Telegram notifications.",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {}
+}
